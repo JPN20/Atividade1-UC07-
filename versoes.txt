@@ -1,0 +1,2 @@
+user@DESKTOP-782DOUJ MINGW64 ~/Documentsversoes-colaboracoes (master)
+$ git remote add origin https://github.cnai-versoes-colaboracoes.git
